@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Fathima",
+      "age": 26,
+      "role": "Software Engineer"
+   },
+   {
+      "id": 2,
+      "name": "Ravi",
+      "age": 22,
+      "role": "Sales Associate"
+   },
+   {
+      "id": 3,
+      "name": "Meena",
+      "age": 19,
+      "role": "Student"
+   },
+   {
+      "id": 4,
+      "name": "Kumar",
+      "age": 29,
+      "role": " Engineyer Student"
+   },
+   {
+      "id": 5,
+      "name": "Meena",
+      "age": 19,
+      "role": "Developer Student"
+   }
+]
